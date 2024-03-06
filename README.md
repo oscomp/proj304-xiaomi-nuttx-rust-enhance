@@ -78,3 +78,7 @@ Apache 2.0 License
 - 姓名：陈小义
 - 单位：小米
 - email：[chenxiaoyi@xiaomi.com](mailto:chenxiaoyi@xiaomi.com)
+
+- 姓名：王刚
+- 单位：小米
+- email:wanggang26@xiaomi.com
